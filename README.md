@@ -1,1 +1,1 @@
-This is to save my practice test scripts
+This is my practice test script folder.
